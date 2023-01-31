@@ -1,0 +1,35 @@
+
+*{
+  text-align: center;
+}
+
+#informacion_personal img {
+  width: 200px; /* establece el ancho de la imagen en 200px */
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%; /* hace que la imagen sea redonda */
+}
+
+nav {
+    background-color: #32bba4;
+    color: #ffffff;
+    padding: 30px, 20px, 0px, 30px;
+  }
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1{
+  background-color: #32bba4;
+  font-size: 40px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2{
+  background-color: #1b8876;
+  font-family: 'Roboto Condensed', sans-serif;
+}
